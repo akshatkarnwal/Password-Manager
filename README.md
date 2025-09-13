@@ -28,7 +28,8 @@ It helps you **generate, store, and retrieve passwords** in a clean GUI.
    - python main.py
    
 📸 Screenshot
-   - <img width="580" height="456" alt="image" src="https://github.com/user-attachments/assets/b5471300-996e-46a3-ada2-460e1ca4c17b" />
+
+<img width="580" height="456" alt="image" src="https://github.com/user-attachments/assets/b5471300-996e-46a3-ada2-460e1ca4c17b" />
    
 📌 Future Improvements
    - Add encryption for saved passwords
